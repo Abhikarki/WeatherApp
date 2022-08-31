@@ -29,7 +29,7 @@ const Navbar = () =>{
                 <li style = {{marginTop : '7px'}}><Link to = '/about'>About</Link></li>
                 <li style = {{marginTop : '7px'}}><Link to = '/globe'>Globe</Link></li>
                 <li>
-                    <a href='https://github.com/Abhikarki'><button className='searchButton' style={{color : 'white'}}> Github </button></a>
+                    <a href='https://github.com/Abhikarki/WeatherApp/tree/master'><button className='searchButton' style={{color : 'white'}}> Github </button></a>
                 </li>
                 
             </ul> 
