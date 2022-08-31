@@ -1,0 +1,31 @@
+
+
+.row{
+    box-sizing: border-box;
+    margin-top: 30px;
+    height : 650px;
+}
+
+
+#globeSide {
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+#globeSide p{
+    padding-left: 10px;
+}
+
+
+
+#detailSide{
+    box-sizing: border-box;
+    overflow: auto;
+    justify-content: center;
+    text-align: center;
+    
+}
+.Container, .row, #globeSide, #detailSide{
+    box-sizing: border-box;
+}
+

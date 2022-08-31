@@ -1,0 +1,65 @@
+#searchArea{
+    position : relative;
+    padding-top: 30px;
+}
+
+.detailDiv{
+    background-color: rgba(219, 191, 191, 0.09);
+    display :flex;
+    flex-direction: column;
+    gap: 85px;
+    width : 98%;
+    box-sizing: border-box;
+    height : 90%;
+    border-radius: 10px;
+    color : aliceblue;
+}
+
+@media screen and (max-width : 980px) {
+    .detailDiv{
+        align-self: center;
+        margin-left : 10%;
+        width : 80%;
+        height: 600px;
+    }
+    
+}
+
+.inputLocation{
+    width : 40%;
+    padding-left: 10px;
+    border-radius : 7px;
+    height : 35px;
+    
+    border : 1px solid rgba(223, 226, 227, 0.864);
+   
+}
+
+#information{
+    margin-top : 10%;
+    
+    display : flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    width: 100%;
+    height : 20%;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.Info{
+    
+    width: 33%;
+}
+
+.infoCss{
+    width : 90%;
+    height : 90%;
+    box-sizing: border-box;
+    border: 2px solid rgba(8, 14, 46, 0.441);
+    border-radius: 10px;
+    justify-content: center;
+    line-height: 40px;
+
+
+}
