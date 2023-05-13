@@ -1,2 +1,1 @@
-# WeatherApp
-abhikarki.github.io/WeatherApp/
+# abhikarki.github.io/WeatherApp/
