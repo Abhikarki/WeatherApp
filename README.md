@@ -1,1 +1,1 @@
- abhikarki.github.io/WeatherApp/
+ https://abhikarki.github.io/WeatherApp/
